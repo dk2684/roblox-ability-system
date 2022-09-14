@@ -1,4 +1,4 @@
--- ! NEEDS TO BE PLACED IN StarterPlayer > StarterCharacterScripts
+-- !! NEEDS TO BE PLACED IN StarterPlayer > StarterCharacterScripts
 local RS = game:GetService("ReplicatedStorage")
 local UIS = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
